@@ -1,1 +1,3 @@
 # blackjack
+
+Basic blackjack game.
